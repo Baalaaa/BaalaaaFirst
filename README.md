@@ -84,7 +84,7 @@ Hi! I'm **Balkrishna Hariprasad Bobala**, a passionate **Python Backend Develope
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/22c55e/Baalaaa" alt="GitHub contribution calendar"/>
+  <img src="https://ghchart.rshah.org/22c55e/Baalaaa" alt="GitHub contribution calendar dark"/>
 </p>
 
 ---
