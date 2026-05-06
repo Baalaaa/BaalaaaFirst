@@ -96,7 +96,7 @@ Hi! I'm **Balkrishna Hariprasad Bobala**, a passionate **Python Backend Develope
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/000000/Baalaaa" />
+<img src="https://ghchart.rshah.org/00ff00/Baalaaa" />
 
 </div>
 
