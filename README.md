@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;FinTech+Engineer;Building+Scalable+Systems;Real-Time+Data+Processing+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;" />
 </p>
 
 ---
