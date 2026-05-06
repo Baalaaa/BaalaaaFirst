@@ -1,5 +1,11 @@
 # 👋 Welcome to My GitHub Profile
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Backend+Developer;FinTech+Engineer;Building+Scalable+Systems;Real-Time+Data+Processing+Expert" />
+</p>
+
+---
+
 Hi! I'm **Balkrishna Hariprasad Bobala**, a passionate **Python Backend Developer** based in **Mumbai**. I specialize in building scalable REST APIs, automation systems, and high-performance financial data pipelines in the FinTech domain.
 
 ---
@@ -16,17 +22,19 @@ Hi! I'm **Balkrishna Hariprasad Bobala**, a passionate **Python Backend Develope
 
 ## 💼 Professional Experience
 
-### 🏦 Anand Rathi Share and Stock Brokers Ltd
+### 🏦 Anand Rathi Share and Stock Brokers Ltd  
 **Python Backend Developer**
-- ⚙️ Reduced manual effort by **60%** using automation
-- 📊 Built **real-time monitoring systems**
-- 🚀 Developed **scalable REST APIs**
-- 🔒 Implemented **secure authentication systems**
 
-### 💻 Finzome Technologies
+- ⚙️ Reduced manual effort by **60%** using automation  
+- 📊 Built **real-time monitoring systems**  
+- 🚀 Developed **scalable REST APIs**  
+- 🔒 Implemented **secure authentication systems**  
+
+### 💻 Finzome Technologies  
 **Backend Developer**
-- 🛠️ Improved **system performance & scalability**
-- 📈 Enhanced **service reliability**
+
+- 🛠️ Improved **system performance & scalability**  
+- 📈 Enhanced **service reliability**  
 
 ---
 
@@ -71,10 +79,13 @@ Hi! I'm **Balkrishna Hariprasad Bobala**, a passionate **Python Backend Develope
 
 <div align="center">
 
-### 📈 Stats
+### 📈 Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baalaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### 💻 Top Languages
+### 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=Baalaaa&theme=tokyonight&hide_border=true)
+
+### 💻 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baalaaa&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -85,7 +96,17 @@ Hi! I'm **Balkrishna Hariprasad Bobala**, a passionate **Python Backend Develope
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/000000/Baalaaa" alt="GitHub contribution calendar"/>
+<img src="https://ghchart.rshah.org/000000/Baalaaa" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Baalaaa/Baalaaa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -99,11 +120,11 @@ Hi! I'm **Balkrishna Hariprasad Bobala**, a passionate **Python Backend Develope
 
 ## 🎯 Core Skills
 
-- Backend Development (REST APIs, Microservices)
-- FinTech Systems & Trading Tech
-- PostgreSQL & Query Optimization
-- Redis Caching & Performance
-- Automation & Monitoring
+- Backend Development (REST APIs, Microservices)  
+- FinTech Systems & Trading Tech  
+- PostgreSQL & Query Optimization  
+- Redis Caching & Performance  
+- Automation & Monitoring  
 
 ---
 
