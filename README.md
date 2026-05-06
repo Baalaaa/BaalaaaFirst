@@ -84,17 +84,21 @@ Reliable data scraper for National Stock Exchange market data.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baalaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 📈 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baalaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baalaaa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Baalaaa&theme=tokyo-night&hide_border=true)
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baalaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+### 🔥 Contribution Calendar (Green Blocks)
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Baalaaa&theme=github&hide_border=true&area=false)](https://github.com/BaalaaaFirst)
 
 ---
 
@@ -126,7 +130,7 @@ Reliable data scraper for National Stock Exchange market data.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balkrishna-bobala)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BaalaaaFirst)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balkrishna@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balkrishna.bobala@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
 
 </div>
