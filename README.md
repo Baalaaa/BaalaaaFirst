@@ -90,7 +90,7 @@ Reliable data scraper for National Stock Exchange market data.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baalaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaalaaaFirst&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baalaaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Baalaaa&theme=tokyo-night&hide_border=true)
 
